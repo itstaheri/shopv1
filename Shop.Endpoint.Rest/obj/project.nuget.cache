@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "I5imQqzb2OPdOdHPjwlxa0oNERBTSFAU0Bwd25IxVADsa9lmkiwfmCGhRQYDFzRSgN6pbgffPHIhe2B17rPclw==",
+  "success": true,
+  "projectFilePath": "D:\\my project\\ShopBis\\shopv1\\shopv1\\Shop.Endpoint.Rest\\Shop.Endpoint.Rest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammad Norouzi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Mohammad Norouzi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Mohammad Norouzi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\Mohammad Norouzi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Mohammad Norouzi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Mohammad Norouzi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Mohammad Norouzi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
