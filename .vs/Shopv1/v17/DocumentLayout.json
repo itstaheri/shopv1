@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|d:\\projects\\shop\\shop.domain\\entities\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\entities\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9508A8-7234-4B45-ACDC-8D66DF14BF69}|Shop.Endpoint.Rest\\Shop.Endpoint.Rest.csproj|d:\\projects\\shop\\shop.endpoint.rest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9508A8-7234-4B45-ACDC-8D66DF14BF69}|Shop.Endpoint.Rest\\Shop.Endpoint.Rest.csproj|solutionrelative:shop.endpoint.rest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728255B0-CB4F-44B1-8CD8-B4E7BF5E7C13}|Shop.Infrastructure\\Shop.Infrastructure.csproj|d:\\projects\\shop\\shop.infrastructure\\auth\\jwtauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728255B0-CB4F-44B1-8CD8-B4E7BF5E7C13}|Shop.Infrastructure\\Shop.Infrastructure.csproj|solutionrelative:shop.infrastructure\\auth\\jwtauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9508A8-7234-4B45-ACDC-8D66DF14BF69}|Shop.Endpoint.Rest\\Shop.Endpoint.Rest.csproj|d:\\projects\\shop\\shop.endpoint.rest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB9508A8-7234-4B45-ACDC-8D66DF14BF69}|Shop.Endpoint.Rest\\Shop.Endpoint.Rest.csproj|solutionrelative:shop.endpoint.rest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9508A8-7234-4B45-ACDC-8D66DF14BF69}|Shop.Endpoint.Rest\\Shop.Endpoint.Rest.csproj|d:\\projects\\shop\\shop.endpoint.rest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB9508A8-7234-4B45-ACDC-8D66DF14BF69}|Shop.Endpoint.Rest\\Shop.Endpoint.Rest.csproj|solutionrelative:shop.endpoint.rest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9508A8-7234-4B45-ACDC-8D66DF14BF69}|Shop.Endpoint.Rest\\Shop.Endpoint.Rest.csproj|d:\\projects\\shop\\shop.endpoint.rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9508A8-7234-4B45-ACDC-8D66DF14BF69}|Shop.Endpoint.Rest\\Shop.Endpoint.Rest.csproj|solutionrelative:shop.endpoint.rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|d:\\projects\\shop\\shop.domain\\dtos\\user\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\dtos\\user\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728255B0-CB4F-44B1-8CD8-B4E7BF5E7C13}|Shop.Infrastructure\\Shop.Infrastructure.csproj|d:\\projects\\shop\\shop.infrastructure\\shop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{728255B0-CB4F-44B1-8CD8-B4E7BF5E7C13}|Shop.Infrastructure\\Shop.Infrastructure.csproj|solutionrelative:shop.infrastructure\\shop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|d:\\projects\\shop\\shop.application\\interfaces\\auth\\ijwtauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|solutionrelative:shop.application\\interfaces\\auth\\ijwtauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|d:\\projects\\shop\\shop.domain\\dtos\\tokenresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\dtos\\tokenresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|d:\\projects\\shop\\shop.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|solutionrelative:shop.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7262C8-1D76-4ED1-AE3F-B292C96B67DB}|Common\\Common.csproj|d:\\projects\\shop\\common\\cryptography\\cryptohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7262C8-1D76-4ED1-AE3F-B292C96B67DB}|Common\\Common.csproj|solutionrelative:common\\cryptography\\cryptohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7262C8-1D76-4ED1-AE3F-B292C96B67DB}|Common\\Common.csproj|d:\\projects\\shop\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E7262C8-1D76-4ED1-AE3F-B292C96B67DB}|Common\\Common.csproj|solutionrelative:common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|d:\\projects\\shop\\shop.application\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|solutionrelative:shop.application\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|d:\\projects\\shop\\shop.domain\\repositories\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\repositories\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|d:\\projects\\shop\\shop.domain\\entities\\profile\\userinformationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\entities\\profile\\userinformationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|d:\\projects\\shop\\shop.application\\interfaces\\database\\iapplicationefcorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|solutionrelative:shop.application\\interfaces\\database\\iapplicationefcorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728255B0-CB4F-44B1-8CD8-B4E7BF5E7C13}|Shop.Infrastructure\\Shop.Infrastructure.csproj|d:\\projects\\shop\\shop.infrastructure\\database\\sqlserver\\efcore\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728255B0-CB4F-44B1-8CD8-B4E7BF5E7C13}|Shop.Infrastructure\\Shop.Infrastructure.csproj|solutionrelative:shop.infrastructure\\database\\sqlserver\\efcore\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|d:\\projects\\shop\\shop.domain\\entities\\user\\userrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\entities\\user\\userrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|d:\\projects\\shop\\shop.domain\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|d:\\projects\\shop\\shop.domain\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|d:\\projects\\shop\\shop.application\\messageresult\\usermessageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|solutionrelative:shop.application\\messageresult\\usermessageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|d:\\projects\\shop\\shop.domain\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|d:\\projects\\shop\\shop.application\\mapper\\resultmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|solutionrelative:shop.application\\mapper\\resultmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|d:\\projects\\shop\\shop.application\\applicationresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|solutionrelative:shop.application\\applicationresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|d:\\projects\\shop\\shop.application\\shop.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|solutionrelative:shop.application\\shop.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Endpoint.Rest\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Shop.Endpoint.Rest\\appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Endpoint.Rest\\appsettings.Development.json",
+              "RelativeToolTip": "Shop.Endpoint.Rest\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T09:31:25.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Endpoint.Rest\\appsettings.json",
+              "RelativeDocumentMoniker": "Shop.Endpoint.Rest\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Endpoint.Rest\\appsettings.json",
+              "RelativeToolTip": "Shop.Endpoint.Rest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T09:31:17.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserInfoDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Domain\\Dtos\\User\\UserInfoDto.cs",
+              "RelativeDocumentMoniker": "Shop.Domain\\Dtos\\User\\UserInfoDto.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Domain\\Dtos\\User\\UserInfoDto.cs",
+              "RelativeToolTip": "Shop.Domain\\Dtos\\User\\UserInfoDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:28:46.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtAuthentication.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Infrastructure\\Auth\\JwtAuthentication.cs",
+              "RelativeDocumentMoniker": "Shop.Infrastructure\\Auth\\JwtAuthentication.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Infrastructure\\Auth\\JwtAuthentication.cs",
+              "RelativeToolTip": "Shop.Infrastructure\\Auth\\JwtAuthentication.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvy4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:28:02.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shop.Infrastructure",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Infrastructure\\Shop.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Shop.Infrastructure\\Shop.Infrastructure.csproj",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Infrastructure\\Shop.Infrastructure.csproj",
+              "RelativeToolTip": "Shop.Infrastructure\\Shop.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T09:27:25.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TokenResultDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Domain\\Dtos\\TokenResultDto.cs",
+              "RelativeDocumentMoniker": "Shop.Domain\\Dtos\\TokenResultDto.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Domain\\Dtos\\TokenResultDto.cs",
+              "RelativeToolTip": "Shop.Domain\\Dtos\\TokenResultDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:27:03.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IJwtAuthentication.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Application\\Interfaces\\Auth\\IJwtAuthentication.cs",
+              "RelativeDocumentMoniker": "Shop.Application\\Interfaces\\Auth\\IJwtAuthentication.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Application\\Interfaces\\Auth\\IJwtAuthentication.cs",
+              "RelativeToolTip": "Shop.Application\\Interfaces\\Auth\\IJwtAuthentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:23:31.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CryptoHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Common\\Cryptography\\CryptoHelper.cs",
+              "RelativeDocumentMoniker": "Common\\Cryptography\\CryptoHelper.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Common\\Cryptography\\CryptoHelper.cs",
+              "RelativeToolTip": "Common\\Cryptography\\CryptoHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:49:44.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Common",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Common\\Common.csproj",
+              "RelativeDocumentMoniker": "Common\\Common.csproj",
+              "ToolTip": "D:\\Projects\\Shop\\Common\\Common.csproj",
+              "RelativeToolTip": "Common\\Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T08:48:51.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IApplicationEfCoreContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Application\\Interfaces\\Database\\IApplicationEfCoreContext.cs",
+              "RelativeDocumentMoniker": "Shop.Application\\Interfaces\\Database\\IApplicationEfCoreContext.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Application\\Interfaces\\Database\\IApplicationEfCoreContext.cs",
+              "RelativeToolTip": "Shop.Application\\Interfaces\\Database\\IApplicationEfCoreContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:34:47.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShopDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Infrastructure\\Database\\SqlServer\\Efcore\\ShopDbContext.cs",
+              "RelativeDocumentMoniker": "Shop.Infrastructure\\Database\\SqlServer\\Efcore\\ShopDbContext.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Infrastructure\\Database\\SqlServer\\Efcore\\ShopDbContext.cs",
+              "RelativeToolTip": "Shop.Infrastructure\\Database\\SqlServer\\Efcore\\ShopDbContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAMwBMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:34:34.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRoleModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Domain\\Entities\\User\\UserRoleModel.cs",
+              "RelativeDocumentMoniker": "Shop.Domain\\Entities\\User\\UserRoleModel.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Domain\\Entities\\User\\UserRoleModel.cs",
+              "RelativeToolTip": "Shop.Domain\\Entities\\User\\UserRoleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:33:16.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Domain\\Enums\\Role.cs",
+              "RelativeDocumentMoniker": "Shop.Domain\\Enums\\Role.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Domain\\Enums\\Role.cs",
+              "RelativeToolTip": "Shop.Domain\\Enums\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:29:14.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserInformationModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Domain\\Entities\\Profile\\UserInformationModel.cs",
+              "RelativeDocumentMoniker": "Shop.Domain\\Entities\\Profile\\UserInformationModel.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Domain\\Entities\\Profile\\UserInformationModel.cs",
+              "RelativeToolTip": "Shop.Domain\\Entities\\Profile\\UserInformationModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:27:04.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Domain\\Entities\\User\\UserModel.cs",
+              "RelativeDocumentMoniker": "Shop.Domain\\Entities\\User\\UserModel.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Domain\\Entities\\User\\UserModel.cs",
+              "RelativeToolTip": "Shop.Domain\\Entities\\User\\UserModel.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:25:50.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserMessageResult.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Application\\MessageResult\\UserMessageResult.cs",
+              "RelativeDocumentMoniker": "Shop.Application\\MessageResult\\UserMessageResult.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Application\\MessageResult\\UserMessageResult.cs",
+              "RelativeToolTip": "Shop.Application\\MessageResult\\UserMessageResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:23:40.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Domain\\Dtos\\User\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "Shop.Domain\\Dtos\\User\\CreateUserDto.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Domain\\Dtos\\User\\CreateUserDto.cs",
+              "RelativeToolTip": "Shop.Domain\\Dtos\\User\\CreateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:13:33.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Domain\\Repositories\\User\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Shop.Domain\\Repositories\\User\\IUserRepository.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Domain\\Repositories\\User\\IUserRepository.cs",
+              "RelativeToolTip": "Shop.Domain\\Repositories\\User\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:12:19.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Application\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Shop.Application\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Application\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Shop.Application\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwD0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:12:14.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Domain\\Dtos\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Shop.Domain\\Dtos\\ResponseDto.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Domain\\Dtos\\ResponseDto.cs",
+              "RelativeToolTip": "Shop.Domain\\Dtos\\ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:07:49.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ResultMapper.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Application\\Mapper\\ResultMapper.cs",
+              "RelativeDocumentMoniker": "Shop.Application\\Mapper\\ResultMapper.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Application\\Mapper\\ResultMapper.cs",
+              "RelativeToolTip": "Shop.Application\\Mapper\\ResultMapper.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswCwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:06:56.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Endpoint.Rest\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Shop.Endpoint.Rest\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Endpoint.Rest\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Shop.Endpoint.Rest\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:04:44.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Endpoint.Rest\\Program.cs",
+              "RelativeDocumentMoniker": "Shop.Endpoint.Rest\\Program.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Endpoint.Rest\\Program.cs",
+              "RelativeToolTip": "Shop.Endpoint.Rest\\Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAiwDkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:01:57.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationResolver.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Application\\ApplicationResolver.cs",
+              "RelativeDocumentMoniker": "Shop.Application\\ApplicationResolver.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Application\\ApplicationResolver.cs",
+              "RelativeToolTip": "Shop.Application\\ApplicationResolver.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAlwA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:59:19.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Application\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Shop.Application\\Services\\IUserService.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Application\\Services\\IUserService.cs",
+              "RelativeToolTip": "Shop.Application\\Services\\IUserService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwBAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:55:57.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Shop.Application",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Application\\Shop.Application.csproj",
+              "RelativeDocumentMoniker": "Shop.Application\\Shop.Application.csproj",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Application\\Shop.Application.csproj",
+              "RelativeToolTip": "Shop.Application\\Shop.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T07:55:47.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
