@@ -13,11 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Application", "Shop.Ap
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Infrastructure", "Shop.Infrastructure\Shop.Infrastructure.csproj", "{728255B0-CB4F-44B1-8CD8-B4E7BF5E7C13}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{CFCBC977-06BB-47B5-9943-E75D04BD2B14}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Endpoint.Rest", "Shop.Endpoint.Rest\Shop.Endpoint.Rest.csproj", "{AB9508A8-7234-4B45-ACDC-8D66DF14BF69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{6E7262C8-1D76-4ED1-AE3F-B292C96B67DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{6E7262C8-1D76-4ED1-AE3F-B292C96B67DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
