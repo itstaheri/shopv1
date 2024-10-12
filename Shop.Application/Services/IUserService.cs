@@ -8,6 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 using Common;
 using Common.Cryptography;
+using Shop.Domain.Repositories;
+using Shop.Domain.Enums;
+using Shop.Domain.Entities.User;
 
 namespace Shop.Application.Services
 {
@@ -19,10 +22,11 @@ namespace Shop.Application.Services
     public class UserService : IUserService
     {
         private readonly IUserRepository _userRepository;
-
-        public UserService(IUserRepository userRepository)
+        private readonly IGenericRepository<RoleModel> _role;
+        public UserService(IUserRepository userRepository, IGenericRepository<RoleModel> role)
         {
             _userRepository = userRepository;
+            _role = role;
         }
 
         public OperationResult<UserInfoDto> Login(LoginDto login)

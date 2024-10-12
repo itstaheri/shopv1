@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TsS+mrcZdhUW46kpDtVtmDFUxWoc+JGwkg2zZt5y7xi9nZJxgcyn+oe3BMFmo7pMBHR+kIDUy8RzWaA0qfBDbA==",
+  "dgSpecHash": "wJ0CLMHy7iYIIOLciJHWOSiv+XqpJf0MucnHcq2xCmUWOucAeoKGLnLoVsxaBN6rFiEZBuyO6bGiUZKH623TSw==",
   "success": true,
-  "projectFilePath": "D:\\my project\\shopv1\\Common\\Common.csproj",
+  "projectFilePath": "D:\\Projects\\Shop\\Common\\Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

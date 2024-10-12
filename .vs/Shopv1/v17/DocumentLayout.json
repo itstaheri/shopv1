@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "D:\\Projects\\Shop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|d:\\projects\\shop\\shop.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|solutionrelative:shop.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|d:\\projects\\shop\\shop.domain\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|d:\\projects\\shop\\shop.domain\\repositories\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\repositories\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728255B0-CB4F-44B1-8CD8-B4E7BF5E7C13}|Shop.Infrastructure\\Shop.Infrastructure.csproj|d:\\projects\\shop\\shop.infrastructure\\infrastructureresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728255B0-CB4F-44B1-8CD8-B4E7BF5E7C13}|Shop.Infrastructure\\Shop.Infrastructure.csproj|solutionrelative:shop.infrastructure\\infrastructureresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728255B0-CB4F-44B1-8CD8-B4E7BF5E7C13}|Shop.Infrastructure\\Shop.Infrastructure.csproj|d:\\projects\\shop\\shop.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728255B0-CB4F-44B1-8CD8-B4E7BF5E7C13}|Shop.Infrastructure\\Shop.Infrastructure.csproj|solutionrelative:shop.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728255B0-CB4F-44B1-8CD8-B4E7BF5E7C13}|Shop.Infrastructure\\Shop.Infrastructure.csproj|d:\\projects\\shop\\shop.infrastructure\\shop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{728255B0-CB4F-44B1-8CD8-B4E7BF5E7C13}|Shop.Infrastructure\\Shop.Infrastructure.csproj|solutionrelative:shop.infrastructure\\shop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|d:\\projects\\shop\\shop.application\\applicationresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|solutionrelative:shop.application\\applicationresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|d:\\projects\\shop\\shop.application\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA326328-F083-405F-8503-E66050E99BCA}|Shop.Application\\Shop.Application.csproj|solutionrelative:shop.application\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|d:\\projects\\shop\\shop.domain\\enums\\commentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\enums\\commentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|d:\\projects\\shop\\shop.domain\\enums\\measurmentsunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\enums\\measurmentsunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|d:\\projects\\shop\\shop.domain\\dtos\\user\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3FE9C66-2B70-462A-8766-B6F46559B944}|Shop.Domain\\Shop.Domain.csproj|solutionrelative:shop.domain\\dtos\\user\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,24 +54,150 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Application\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Shop.Application\\Services\\IUserService.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Application\\Services\\IUserService.cs",
+              "RelativeToolTip": "Shop.Application\\Services\\IUserService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwB8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:33:09.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfrastructureResolver.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Infrastructure\\InfrastructureResolver.cs",
+              "RelativeDocumentMoniker": "Shop.Infrastructure\\InfrastructureResolver.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Infrastructure\\InfrastructureResolver.cs",
+              "RelativeToolTip": "Shop.Infrastructure\\InfrastructureResolver.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:31:07.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Shop.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Shop.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:10:50.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shop.Infrastructure",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Infrastructure\\Shop.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Shop.Infrastructure\\Shop.Infrastructure.csproj",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Infrastructure\\Shop.Infrastructure.csproj",
+              "RelativeToolTip": "Shop.Infrastructure\\Shop.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T18:10:19.592Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Domain\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Shop.Domain\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Domain\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Shop.Domain\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wBEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:59:30.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationResolver.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Application\\ApplicationResolver.cs",
+              "RelativeDocumentMoniker": "Shop.Application\\ApplicationResolver.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Application\\ApplicationResolver.cs",
+              "RelativeToolTip": "Shop.Application\\ApplicationResolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:43:31.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Application\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Shop.Application\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Application\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Shop.Application\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCEAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:37:02.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Domain\\Repositories\\User\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Shop.Domain\\Repositories\\User\\IUserRepository.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Domain\\Repositories\\User\\IUserRepository.cs",
+              "RelativeToolTip": "Shop.Domain\\Repositories\\User\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:36:12.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentStatus.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Domain\\Enums\\CommentStatus.cs",
+              "RelativeDocumentMoniker": "Shop.Domain\\Enums\\CommentStatus.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Domain\\Enums\\CommentStatus.cs",
+              "RelativeToolTip": "Shop.Domain\\Enums\\CommentStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:35:51.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MeasurmentsUnit.cs",
+              "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Domain\\Enums\\MeasurmentsUnit.cs",
+              "RelativeDocumentMoniker": "Shop.Domain\\Enums\\MeasurmentsUnit.cs",
+              "ToolTip": "D:\\Projects\\Shop\\Shop.Domain\\Enums\\MeasurmentsUnit.cs",
+              "RelativeToolTip": "Shop.Domain\\Enums\\MeasurmentsUnit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:35:49.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "UserInfoDto.cs",
               "DocumentMoniker": "D:\\Projects\\Shop\\Shop.Domain\\Dtos\\User\\UserInfoDto.cs",
               "RelativeDocumentMoniker": "Shop.Domain\\Dtos\\User\\UserInfoDto.cs",
               "ToolTip": "D:\\Projects\\Shop\\Shop.Domain\\Dtos\\User\\UserInfoDto.cs",
               "RelativeToolTip": "Shop.Domain\\Dtos\\User\\UserInfoDto.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T18:28:45.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T18:28:45.916Z"
             }
           ]
         }
